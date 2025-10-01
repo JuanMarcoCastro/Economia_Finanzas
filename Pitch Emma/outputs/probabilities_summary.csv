@@ -1,0 +1,8 @@
+goal_name,type,goal_value_min,goal_value_max,prob_ge_min,prob_ge_max
+Universidad de Utrecht,fixed,1772042,1772042,77.8,77.8
+Universidad de Wageningen,fixed,1517724,1517724,84.39999999999999,84.39999999999999
+Universidad de Lund,fixed,1499773,1499773,85.0,85.0
+TU Delft,fixed,1474650,1474650,85.7,85.7
+DTU,fixed,1283101,1283101,90.0,90.0
+Universidad de Investigación PSL,fixed,644674,644674,99.0,99.0
+"TU Alemana (TU Múnich, KIT, RWTH Aachen)",range,522408,652008,99.5,98.8
